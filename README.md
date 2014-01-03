@@ -6,8 +6,3 @@ lesswords is a simple theme for [Ghost](http://github.com/tryghost/ghost/).
 
 
 [![screen shot](http://lesswords.apps.runkite.com/content/images/2014/Jan/less-words.jpg)](http://lesswords.apps.runkite.com/)
-
-
-## Copyright & License
-
-Copyright (c) 2014 Takeshi Yamada - Released under The MIT License.
